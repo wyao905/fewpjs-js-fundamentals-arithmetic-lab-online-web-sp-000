@@ -9,4 +9,4 @@ let random = Math.floor(Math.random() * 10) + 1
 
 let mod = 10 % 6
 
-let max = 
+let max = Math.max(1, 7, 20)
